@@ -34,3 +34,10 @@ function removeElementFromBeginningOfArray(array){
 function removeElementFromEndOfArray(array){
   array.slice(array.length - 1)
 }
+
+
+
+
+
+
+
